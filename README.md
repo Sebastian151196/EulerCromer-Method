@@ -5,7 +5,28 @@ Método de Euler-Cromer
 
 Como ejemplo, podemos resolver numéricamente la ecuación diferencial:
 
-$ \frac{d^2x}{dt^2} = -kx $
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <msup>
+        <mi>d</mi>
+        <mn>2</mn>
+      </msup>
+      <mi>x</mi>
+    </mrow>
+    <mrow>
+      <mi>d</mi>
+      <msup>
+        <mi>t</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mo>&#x2212;<!-- − --></mo>
+  <mi>k</mi>
+  <mi>x</mi>
+</math>
 
 ### Procedimiento:
 
