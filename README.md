@@ -1,4 +1,4 @@
-# EulerCromer-Method
-
-Método de Euler-Cromer
+# Método de Euler-Cromer
 ---------------
+
+Desarrollo del método de Euler-Cromer. 
